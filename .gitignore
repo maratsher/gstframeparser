@@ -1,0 +1,7 @@
+build/
+.vscode/
+env/
+test_server/env/
+venv/
+test_server/venv/
+test_server/
